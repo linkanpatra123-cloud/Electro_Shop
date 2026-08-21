@@ -1,5 +1,5 @@
 node_modules/
-.env
+#.env
 data/store.json
 data/users.json
 data/products-store.json
